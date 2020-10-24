@@ -2,7 +2,7 @@ body {
     background-color: royalblue;
 }
 
-img {
+.img-thumbnail {
     width: 250px;
     height: 250px;
     float: left;
@@ -20,4 +20,10 @@ h1 {
 
 h5 {
     text-align: center;
+}
+
+#portimage {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
 }
