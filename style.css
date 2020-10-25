@@ -45,9 +45,10 @@ p {
     background-color: burlywood;
 }
 
-li, h1 {
+li {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
 }
 
 .card-title {
@@ -57,4 +58,9 @@ li, h1 {
 
 form {
     padding: 30px;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
