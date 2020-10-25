@@ -49,15 +49,28 @@ li {
     margin: 5px;
 }
 
-a {
+.linkedin {
+    width: 100%;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    text-align: left;
     color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
 }
 
-a:active {
-    color: red;
-}
-
-a[tabindex]:focus {
+.github {
+    width: 100%;
+    padding: 10px;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    text-align: right;
     color: black;
-    outline: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
 }
