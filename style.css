@@ -47,4 +47,20 @@ p {
 
 li {
     padding: 3px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-title {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form {
+    padding: 30px;
 }
