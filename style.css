@@ -45,3 +45,19 @@ p {
     background-color: burlywood;
 }
 
+li {
+    margin: 5px;
+}
+
+a {
+    color: black;
+}
+
+a:active {
+    color: red;
+}
+
+a[tabindex]:focus {
+    color: black;
+    outline: none;
+}
