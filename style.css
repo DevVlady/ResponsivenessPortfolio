@@ -40,3 +40,8 @@ p {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.card {
+    background-color: burlywood;
+}
+
