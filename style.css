@@ -44,33 +44,3 @@ p {
 .card {
     background-color: burlywood;
 }
-
-li {
-    margin: 5px;
-}
-
-.linkedin {
-    width: 100%;
-    padding: 10px;
-    bottom: 0;
-    left: 0;
-    position: absolute;
-    text-align: left;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-    font-weight: bold;
-}
-
-.github {
-    width: 100%;
-    padding: 10px;
-    bottom: 0;
-    right: 0;
-    position: absolute;
-    text-align: right;
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-    font-weight: bold;
-}
