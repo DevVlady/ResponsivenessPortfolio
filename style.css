@@ -65,3 +65,8 @@ h1 {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+
+h2 {
+    border: black;
+    border-bottom-style: solid;
+}
