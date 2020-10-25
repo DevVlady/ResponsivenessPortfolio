@@ -1,6 +1,7 @@
-body {
+/* body {
     background-color: royalblue;
-}
+    background-image: url("https://b.kisscc0.com/20180517/lyw/kisscc0-web-development-web-design-web-developer-search-en-computer-5afd949b0c3854.0298527315265680910501.jpg")
+} */
 
 .img-thumbnail {
     width: 250px;
@@ -33,4 +34,12 @@ footer {
     text-align: center;
     background-color: burlywood;
     color: black;
+}
+
+.wrapper {
+    opacity: 85%;
+    background-size: cover;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-image: url("https://b.kisscc0.com/20180517/lyw/kisscc0-web-development-web-design-web-developer-search-en-computer-5afd949b0c3854.0298527315265680910501.jpg")
 }
