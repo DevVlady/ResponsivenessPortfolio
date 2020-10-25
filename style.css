@@ -44,3 +44,7 @@ p {
 .card {
     background-color: burlywood;
 }
+
+li {
+    padding: 3px;
+}
