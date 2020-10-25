@@ -45,13 +45,7 @@ p {
     background-color: burlywood;
 }
 
-li {
-    padding: 3px;
-    font-weight: bold;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-h1 {
+li, h1 {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
