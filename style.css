@@ -6,7 +6,7 @@
 }
 
 .container {
-    padding-top: 8%;
+    padding-top: 7%;
     padding-bottom: 50%;
 }
 
@@ -39,6 +39,7 @@ p {
     font-size: large;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
+    padding-right: 5px;
 }
 
 .card {
