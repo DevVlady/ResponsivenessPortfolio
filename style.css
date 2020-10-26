@@ -74,7 +74,11 @@ h2 {
     border-bottom-style: solid;
 }
 header {
-    position: fixed;
     width: 100%;
     z-index: 9999;
 }
+
+/* .linkedin {
+    background-color: blue;
+    color: blue;
+} */
