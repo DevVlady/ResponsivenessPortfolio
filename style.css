@@ -86,15 +86,15 @@ header {
     z-index: 9999;
 }
 
-/* .homepage {
-    color: blue;
+.homepage {
+    text-align: left;
     position: absolute;
-    margin: 470px;
-    z-index: -50;
-    left: 11%;
-    top: 25px;
-} */
+    top: 40%;
+    right: 27%;
+}
 
-h3 {
-
+h3, h4 {
+    color: ;
+    font-weight: bolder;
+    font-size: 250%;
 }
