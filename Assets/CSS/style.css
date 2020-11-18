@@ -54,6 +54,11 @@ p {
     margin-top: 85px;
 }
 
+.projects {
+    margin-left: 85px;
+    width: 100%;
+}
+
 li {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
