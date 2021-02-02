@@ -32,7 +32,7 @@ This project is licensed under the APACHE 2.0 license
 
 ## Website
 
-Deploy Link: https://vlady14.github.io/ResponsivenessPortfolio/
+Deploy Link: https://devvlady.github.io/ResponsivenessPortfolio/
 
 ## Usage
 
@@ -52,4 +52,4 @@ Technologies, applications, and programs used in this project are HTML5 & CSS3
 ## Questions
 
 If you have any questions about the project/repo, please open an issue or contact me directly at <vladimir.s.dimitrov14@gmail.com>.
-You can find more of my work at Vlady14 (https://github.com/Vlady14).
+You can find more of my work at DevVlady (https://github.com/DevVlady).
